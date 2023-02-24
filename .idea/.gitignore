@@ -1,0 +1,5 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../qa_guru_11_pytest_1\.idea/codestream.xml
